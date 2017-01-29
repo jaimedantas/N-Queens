@@ -3,4 +3,4 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 
 ![](https://github.com/jaimedantas/N-Queens/blob/master/n-queen_2.png)
 
-If you wish to know more about this project you can read the [report](https://github.com/jaimedantas/N-Queens/blob/master/full_report.pdf) in Portuguese. 
+If you wish to know more about this project, you can read the [report](https://github.com/jaimedantas/N-Queens/blob/master/full_report.pdf) written in Portuguese. 
